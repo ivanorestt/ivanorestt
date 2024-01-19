@@ -2,7 +2,7 @@
 - 👀 I’m interested The Wonders of the Seas
 - 🌱 I’m currently learning Kiev University
 - 💞️ I’m looking to collaborate on my company
-
+19.07
 
 <!---
 ivanorestt/ivanorestt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
